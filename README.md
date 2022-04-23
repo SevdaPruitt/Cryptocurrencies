@@ -3,7 +3,7 @@
 
 <br>
 
-Martha is a senior manager and an important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.The complexity of cryptocurrencies is overwhelming for them. So, they’ve asked you to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
+Martha is a senior manager and an important clients. Accountability Accounting, a prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers.The complexity of cryptocurrencies is overwhelming for them. So, they’ve asked me to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
 
 Data on hand is not in its best state, so it has to be processed or cleaned up to work with the machine learning models. Martha doesn't know what she is looking for or what the output will be, so it is ideal to use unsupervised learning with clustering algorithm. 
 <br>
