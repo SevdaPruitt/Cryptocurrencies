@@ -27,3 +27,18 @@ Data on hand is not in its best state, so it has to be processed or cleaned up t
 
 ## Below is a snapshot of tradable crypto currencies table.
 ![TradableCryptocurrencies.png](images/TradableCryptocurrencies.png)
+
+<br>
+
+![3D-Scatter.png](images/3D-Scatter.png)
+
+<br>
+
+![hvp.png](images/hvp.png)
+
+<br>
+
+![ClusteredDF.png](images/ClusteredDF.png)
+
+<br>
+
